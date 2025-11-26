@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/React-TIP/static/css/main.e6c13ad2.css",
+    "main.js": "/React-TIP/static/js/main.65c89d0e.js",
+    "static/js/453.a29aac14.chunk.js": "/React-TIP/static/js/453.a29aac14.chunk.js",
+    "index.html": "/React-TIP/index.html",
+    "main.e6c13ad2.css.map": "/React-TIP/static/css/main.e6c13ad2.css.map",
+    "main.65c89d0e.js.map": "/React-TIP/static/js/main.65c89d0e.js.map",
+    "453.a29aac14.chunk.js.map": "/React-TIP/static/js/453.a29aac14.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.65c89d0e.js"
+  ]
+}
